@@ -9,5 +9,7 @@ $(document).ready(function () {
     console.log("hamada");
 
     console.log("kjwehgfkjweghkf");
+
+    console.log("new line");
   });
 }); // End jQuery
