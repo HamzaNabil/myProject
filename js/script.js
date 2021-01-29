@@ -5,5 +5,7 @@ $(document).ready(function () {
     $("html,body").animate({
       scrollTop: $("." + myHref).offset().top,
     });
+
+    console.log("hamada");
   });
 }); // End jQuery
